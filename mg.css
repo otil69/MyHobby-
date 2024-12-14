@@ -1,0 +1,138 @@
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background-image: url(bgmg.jpg);
+}
+
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #555;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+#lb{
+    
+    background-image: url('mg/lb.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    padding: 20px;
+    color: #fff;
+}
+
+#mc{
+    
+    background-image: url('mg/mc.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    padding: 20px;
+    color: #fff;
+
+}
+#pg{
+    
+    background-image: url('mg/pg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    padding: 20px;
+    color: #fff;
+}
+#eb{
+    background-image: url('mg/eb.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    padding: 20px;
+    color: #fff;
+}
+#pr{
+    background-image: url('mg/pr.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    padding: 20px;
+    color: #fff;
+}
+#lb a{
+    text-decoration: none;
+    color: #fff;
+}
+#mc a{
+    text-decoration: none;
+    color: #fff;
+}
+#pg a{
+    text-decoration: none;
+    color: #fff;
+}
+#eb a{
+    text-decoration: none;
+    color: #fff;
+}
+#pr a{
+    text-decoration: none;
+    color: #fff;
+}
+h4 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
